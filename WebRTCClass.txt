@@ -1,1 +1,2 @@
 print(«work with WebRTC»)
+В принципе все готово
